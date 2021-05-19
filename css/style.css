@@ -1,0 +1,40 @@
+h2 {
+  color: red;
+}
+
+/*
+body {
+  background-color: whitesmoke;
+} 
+.title {
+  color: red;
+}
+
+.subtitle {
+  color: blue;
+}
+
+#contact-us {
+  color: green;
+}
+
+*/
+
+.subtitle {
+  color: green;
+}
+
+#services {
+  color: red;
+}
+
+li:last-child {
+  color: gold;
+}
+li:nth-child(2) {
+  color: red;
+}
+
+li:only-child {
+  color: green;
+}
