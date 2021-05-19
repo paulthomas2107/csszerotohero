@@ -1,4 +1,4 @@
-h2 {
+h2:hover {
   color: red;
 }
 
@@ -37,4 +37,16 @@ li:nth-child(2) {
 
 li:only-child {
   color: green;
+}
+
+td:only-child {
+  color: purple;
+}
+
+#google-link:link {
+  color: blue;
+}
+
+#google-link:visited {
+  color: red;
 }
